@@ -1,0 +1,41 @@
+.navbar{
+  background-color: rgb(104, 104, 149);
+  padding: 1rem 2rem;
+  border-bottom: 1px solid #807272;
+  color: white;
+  margin: auto;
+}
+
+.sidebar{
+  width: 16rem;
+  height: calc(100vh - 50px);
+  border-right: #202020;
+  background-color: #202020;
+  float: left;
+}
+
+ul{
+  list-style: none;
+  padding:1rem 2rem;
+}
+
+li{
+  margin-bottom: 1rem;
+}
+
+.center {
+  margin: auto;
+  left: 50%;
+}
+
+.imagedetail{
+  float: left;
+}
+
+.detail{
+  margin-top: 30px;
+}
+
+a{
+  text-decoration: none;
+}
